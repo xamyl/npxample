@@ -1,0 +1,16 @@
+{
+  "name": "npxample",
+  "version": "1.0.0",
+  "description": "An example npm package for npx",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "npxample": "./index.js"
+  },
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "inquirer": "^8.2.6"
+  },
+  "author": "xamyl",
+  "license": "ISC"
+}
